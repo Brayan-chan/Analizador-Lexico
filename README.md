@@ -145,9 +145,9 @@ print(f"Resultado: {resultado}")
 
 ```
 📂 analizador/
-├── 📄 lexical_analyzer.py           # Motor del analizador
-├── 📄 gui_analyzer_improved.py     # Interfaz gráfica
-├── 📄 README.md                     # Esta guía rápida
+├── 📄 lexical_analyzer.py                 # Motor del analizador
+├── 📄 gui_analyzer_improved.py            # Interfaz gráfica
+├── 📄 README.md                           # Esta guía rápida
 └── 📄 DOCUMENTACION_ANALIZADOR_LEXICO.md  # Documentación técnica
 ```
 
@@ -155,8 +155,7 @@ print(f"Resultado: {resultado}")
 
 - 🎓 **Estudiantes** - Aprender análisis léxico y compiladores
 - 👨‍🏫 **Profesores** - Demostrar conceptos de compiladores  
-- 👨‍💻 **Desarrolladores** - Analizar estructura de código Python
-- 🔍 **Investigadores** - Estudiar patrones de código
+
 
 ## 🏆 **Características v2.0**
 
